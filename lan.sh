@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 #----Local area network with three nodes---
 
